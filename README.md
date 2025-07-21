@@ -26,8 +26,6 @@ This is a simple PHP-based travel registration form built as a beginner project.
 - MySQL
 - XAMPP (local development)
 
-Open your browser and go to: http://localhost/php-travel-form
-
 
 🙋‍♀️ Author
 Purva Jadhav
